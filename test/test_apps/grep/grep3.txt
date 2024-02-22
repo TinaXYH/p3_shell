@@ -1,0 +1,6 @@
+This test case 3 for grep function.
+AAA
+"
+AAA
+wil be found in this line the second time.
+

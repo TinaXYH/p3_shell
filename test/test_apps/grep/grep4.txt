@@ -1,0 +1,5 @@
+This test case 4 for grep function, copy of grep3.txt
+"
+AAA
+
+RRR

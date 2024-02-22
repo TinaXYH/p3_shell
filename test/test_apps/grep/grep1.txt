@@ -1,0 +1,2 @@
+This is a test for grep function.
+The pattern wil not be found in this test case.
